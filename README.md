@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 
 [![Twitter: JuniorNitish](https://img.shields.io/twitter/follow/JuniorNitish?style=social)](https://twitter.com/JuniorNitish)
 [![Linkedin: biharicoder](https://img.shields.io/badge/-biharicoder-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/biharicoder/)](https://www.linkedin.com/in/biharicoder/)
-[![GitHub niralanitrogensir](https://img.shields.io/github/followers/niralanitrogensir?label=follow&style=social)](https://github.com/niralanitrogensir)
+[![GitHub cmonitishofficial](https://img.shields.io/github/followers/cmonitishofficial?label=follow&style=social)](https://github.com/cmonitishofficial)
 [![website](https://img.shields.io/badge/PortfolioWebsite-sarkar.live-2648ff?style=flat-square&logo=google-chrome)](https://sarkar.live/)
 
 **Languages and Tools:**
