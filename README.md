@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 12 hours listening to songs every day.
 
-[![Twitter: cmobihar_](https://img.shields.io/twitter/follow/cmobihar_?style=social)](https://twitter.com/cmobihar_)
+[![Twitter: JuniorNitish](https://img.shields.io/twitter/follow/JuniorNitish?style=social)](https://twitter.com/JuniorNitish)
 [![Linkedin: biharicoder](https://img.shields.io/badge/-biharicoder-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/biharicoder/)](https://www.linkedin.com/in/biharicoder/)
 [![GitHub niralanitrogensir](https://img.shields.io/github/followers/niralanitrogensir?label=follow&style=social)](https://github.com/niralanitrogensir)
 [![website](https://img.shields.io/badge/PortfolioWebsite-sarkar.live-2648ff?style=flat-square&logo=google-chrome)](https://sarkar.live/)
